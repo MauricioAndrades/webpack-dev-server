@@ -1,7 +1,7 @@
 'use strict';
 
 const webpack = require('webpack');
-const updateCompiler = require('../../../lib/utils/updateCompiler.babel.js');
+const updateCompiler = require('../../../lib/utils/updateCompiler');
 
 describe('updateCompiler', () => {
   describe('simple config, inline', () => {
