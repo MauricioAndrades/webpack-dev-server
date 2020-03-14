@@ -5,9 +5,10 @@ module.exports = (api) => {
 
   return {
     presets: ['@babel/preset-env'],
+    plugins: ["@babel/plugin-proposal-optional-chaining", "@babel/plugin-proposal-nullish-coalescing-operator"],
     env: {
       test: {
-        plugins: ['@babel/plugin-transform-runtime'],
+        plugins: [],
       },
     },
   };

@@ -1,15 +1,16 @@
 module.exports = {
-  printWidth: 80,
-  tabWidth: 2,
-  singleQuote: true,
-  trailingComma: 'es5',
-  arrowParens: 'always',
-  overrides: [
-    {
-      files: '*.json',
-      options: {
-        useTabs: false,
-      },
-    },
-  ],
+    printWidth: 120,
+    tabWidth: 4,
+    singleQuote: false,
+    trailingComma: "none",
+    arrowParens: "avoid",
+    useTabs: false,
+    overrides: [
+        {
+            files: "*.json",
+            options: {
+                useTabs: false
+            }
+        }
+    ]
 };

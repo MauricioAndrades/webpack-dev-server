@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.13.1](https://github.com/webpack/webpack-dev-server/compare/v3.13.0...v3.13.1) (2020-03-11)
+
+## [3.13.0](https://github.com/webpack/webpack-dev-server/compare/v3.10.3...v3.13.0) (2020-03-11)
+
+
+### Features
+
+* add icons for directory viewer ([#2441](https://github.com/webpack/webpack-dev-server/issues/2441)) ([e953d01](https://github.com/webpack/webpack-dev-server/commit/e953d01ca93764dabe38cedad8e7b9ef4e7f04bc))
+
+## [3.12.0](https://github.com/webpack/webpack-dev-server/compare/v3.10.3...v3.12.0) (2020-03-11)
+
+
+### Features
+
+* add icons for directory viewer ([#2441](https://github.com/webpack/webpack-dev-server/issues/2441)) ([e953d01](https://github.com/webpack/webpack-dev-server/commit/e953d01ca93764dabe38cedad8e7b9ef4e7f04bc))
+
+## [3.11.0](https://github.com/webpack/webpack-dev-server/compare/v3.10.3...v3.11.0) (2020-03-11)
+
+
+### Features
+
+* add icons for directory viewer ([#2441](https://github.com/webpack/webpack-dev-server/issues/2441)) ([e953d01](https://github.com/webpack/webpack-dev-server/commit/e953d01ca93764dabe38cedad8e7b9ef4e7f04bc))
+
 ### [3.10.3](https://github.com/webpack/webpack-dev-server/compare/v3.10.2...v3.10.3) (2020-02-05)
 
 
